@@ -1,0 +1,94 @@
+/***************** TAG SELECTORS ****************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h1 {
+  color: #aaaaaa;
+  line-height: 2;
+  font-size: 50px;
+  font-family: 'Indie Flower', cursive;
+}
+h2 {
+ color: #aaaaaa;
+ font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+ color: #aaaaaa;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+p {
+  font-size: 25px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+hr {
+  border: dotted #aaaaaa 6px;
+  border-bottom: none;
+  width: 4%;
+
+}
+a {
+  color: #aaaaaa;
+  margin: 10px;
+}
+
+
+
+
+/***************** CLASS SELECTORS ***************/
+
+.top-cloud {
+position: absolute;
+right: 600px;
+top: 50px;
+}
+
+.bottom-cloud {
+position: absolute;
+}
+
+.Main-Title {
+  margin-bottom: 20px;
+}
+.Top-Container {
+  background-color: #ffe2e2;
+  position: relative;
+  padding-top: 100px;
+}
+
+.Middle-Container {
+}
+
+.Bottom-Container {
+  background-color: #ffe2e2;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill-text {
+  text-align: left;
+}
+.contact-me {
+  margin-bottom: 75px;
+}
+
+
+/****************** ID SELECTORS ***********************/
+#language-image1 {
+  float: left;
+  width: 17%;
+  margin-right: 25px;
+}
+#knowledge-image1 {
+  float: right;
+  width: 20%;
+}
+#top-subtitle {
+  font-weight: normal;
+}
